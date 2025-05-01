@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Bank accounts related QA apis"
+  contactDetails:
+    name: "Gurpreet Singh- QA"
+    email: "gurqaaccounts@gmail.com"
+  onCallSupport:
+    - 8929014400
+    - 8929014400

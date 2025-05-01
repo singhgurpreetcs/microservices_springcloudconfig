@@ -1,0 +1,11 @@
+build:
+  version: "17.1"
+
+loans:
+  message: "Welcome to loans related QA apis"
+  contactDetails:
+    name: "Gurpreet Singh -QA"
+    email: "er.gurqaloans@yahoo.com"
+  onCallSupport:
+    - 1111111111
+    - 9999999999

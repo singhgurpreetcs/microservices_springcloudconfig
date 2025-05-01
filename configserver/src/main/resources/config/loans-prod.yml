@@ -1,0 +1,11 @@
+build:
+  version: "17.0"
+
+loans:
+  message: "Welcome to loans related prod apis"
+  contactDetails:
+    name: "Gurpreet Singh -Prod"
+    email: "er.gurprodloans@yahoo.com"
+  onCallSupport:
+    - 4444444444
+    - 7777777777

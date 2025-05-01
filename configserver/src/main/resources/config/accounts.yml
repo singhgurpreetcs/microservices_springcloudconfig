@@ -1,0 +1,12 @@
+#spring.application.name=accounts
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Bank accounts related local apis"
+  contactDetails:
+    name: "Gurpreet Singh -Developer"
+    email: "gurdevaccounts@gmail.com"
+  onCallSupport:
+    - 8929014488
+    - 8929014488

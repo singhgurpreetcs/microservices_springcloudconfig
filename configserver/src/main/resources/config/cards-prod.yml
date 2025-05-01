@@ -1,0 +1,11 @@
+build:
+  version: "11.0"
+
+cards:
+  message: "Welcome to cards related prod apis"
+  contactDetails:
+    name: "Gurpreet Singh -PROD"
+    email: "er.gurprodcards@yahoo.com"
+  onCallSupport:
+    - 5555555555
+    - 7777777777

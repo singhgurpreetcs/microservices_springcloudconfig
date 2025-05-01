@@ -1,0 +1,11 @@
+build:
+  version: "11.1"
+
+cards:
+  message: "Welcome to cards related QA apis"
+  contactDetails:
+    name: "Gurpreet Singh -QA"
+    email: "er.gurqacards@yahoo.com"
+  onCallSupport:
+    - 1212121212
+    - 9999999999

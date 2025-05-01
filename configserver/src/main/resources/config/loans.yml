@@ -1,0 +1,11 @@
+build:
+ version: "17.2"
+
+loans:
+  message: "Welcome to loans related local apis"
+  contactDetails:
+   name: "Gurpreet Singh -Developer"
+   email: "er.gurdevloans@yahoo.com"
+  onCallSupport:
+   - 3333333333
+   - 4444444444
