@@ -4,6 +4,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/accounts" />
     <file type="web" url="file://$PROJECT_DIR$/cards" />
+    <file type="web" url="file://$PROJECT_DIR$/configserver" />
     <file type="web" url="file://$PROJECT_DIR$/loans" />
   </component>
   <component name="ProjectRootManager">
